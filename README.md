@@ -1,4 +1,3 @@
-README dosyasını daha profesyonel ve düzenli bir şekilde yeniden yapılandıracağım:
 
 # Microbiome-Age-Predictor
 
