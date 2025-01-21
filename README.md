@@ -30,3 +30,9 @@ Microbiome-Age-Predictor/
 - scikit-learn
 - matplotlib
 - seaborn
+
+## Ekran Görüntüleri ve Performans Metrikleri
+
+### Random Forest:
+
+![image](https://github.com/user-attachments/assets/74c91f01-c253-4324-9d3c-eb00983a361f)
